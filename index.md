@@ -1,4 +1,4 @@
 ---
-title: Welcome to Allan's Website
+title: Welcome to my Website
 ---
-
+Hi, my name is Allan, nice to meet you!
