@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Website
+title: The Craziest Hottest Posts you will read
 ---
-Hi, my name is Allan, nice to meet you!
+Hi, my name is Allan, I play Taiko and Dance
